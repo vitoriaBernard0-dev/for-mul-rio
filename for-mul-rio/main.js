@@ -1,6 +1,6 @@
 var nomeUsuario = "Astolfo";
 var senha = "2023";
-
+// função
 function verify() {
     if (nomeUsuario == "Astolfo" && senha == "2023") {
         alert("Senha correta, entrando no sistema...");
