@@ -21,13 +21,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
-#usuario{
-    font-weight: 300;
-}
 
 .card {
 
-    background-color:  #d30011;
+    background-color: #d30011;
 
     padding: 40px;
 
@@ -117,7 +114,7 @@ body {
 
     height: 40px;
 
-    background-color: #ff6961;
+    background-color: #a13854;
 
     border:none;
 
@@ -126,17 +123,9 @@ body {
     margin: 10px 0;
 
 }
-<<<<<<< HEAD
- #img{
-    width: 40%;
-
-    height: 70px;
-}
-=======
 
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     color: #fff;
 }
->>>>>>> 4afa8c8fcbf6b7df42870fd88dc8f0631563ef5e
